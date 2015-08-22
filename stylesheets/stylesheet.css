@@ -14,9 +14,6 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
-.centered-image {margin-left: auto;
-    margin-right: auto;
-    display: block;}
 
 .btn {
   display: inline-block;
